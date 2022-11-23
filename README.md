@@ -60,7 +60,7 @@
 
 ### 와이어 프레임
 
-[Figma Link](https://www.figma.com/file/jiVLhSHUiwT51ndzyLm0av/%EB%B8%8C%EB%A1%9C%EC%BB%AC%EB%A6%AC?node-id=0%3A1&t=dhefFUTcmJxXy7Zv-1)
+ - [Figma Link](https://www.figma.com/file/jiVLhSHUiwT51ndzyLm0av/%EB%B8%8C%EB%A1%9C%EC%BB%AC%EB%A6%AC?node-id=0%3A1&t=dhefFUTcmJxXy7Zv-1)
 
 > ![Screenshot 2022-11-20 at 22.24.30.JPG](assets/57f934bf2a6c240800146820c4a25af9436a08cb.JPG)
 
