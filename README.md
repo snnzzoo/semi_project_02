@@ -19,11 +19,6 @@
         -   [Technology stack](#technology-stack)
     -   [🔍Features](#features)
         -   [담당 역할](#담당-역할)
-            -   [이동근](#이동근)
-            -   [김예린](#김예린)
-            -   [임선주](#임선주)
-            -   [이태극](#이태극)
-            -   [최준우](#최준우)
         -   [기능 소개](#기능-소개)
         -   [Main Page](#main-page)
         -   [Accounts APP](#accounts-app)
@@ -65,7 +60,11 @@
 
 ### 와이어 프레임
 
+[Figma Link](https://www.figma.com/file/jiVLhSHUiwT51ndzyLm0av/%EB%B8%8C%EB%A1%9C%EC%BB%AC%EB%A6%AC?node-id=0%3A1&t=dhefFUTcmJxXy7Zv-1)
+
 > ![Screenshot 2022-11-20 at 22.24.30.JPG](assets/57f934bf2a6c240800146820c4a25af9436a08cb.JPG)
+
+
 
 ## 💻Technologies
 
@@ -91,20 +90,6 @@
 
 ### 담당 역할
 
-#### 이동근
-
--   ⭐Team Leader⭐
--   Back-end(Accounts App)
--   Deploy to Amazon EC2
--   Bug Fix
-
-#### 김예린
-
--   Front-end
--   메인 페이지, 상품 메인 페이지, 상품 상세 페이지 화면 구현
--   navbar 구현
--   회원가입 및 로그인, 회원탈퇴 페이지 화면 구현
-
 #### 임선주
 
 -   Front-end
@@ -112,14 +97,46 @@
 -   footer
 -   마이페이지, 장바구니, 주문하기/주문완료 페이지 레이아웃 구현
 
-#### 이태극
+<details>
+<summary>김예린</summary>
+
+<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
+
+-   Front-end
+-   메인 페이지, 상품 메인 페이지, 상품 상세 페이지 화면 구현
+-   navbar 구현
+-   회원가입 및 로그인, 회원탈퇴 페이지 화면 구현
+
+</details>
+
+<details>
+<summary>이동근</summary>
+
+<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
+
+-   Team Leade
+-   Back-end(Accounts App)
+-   Deploy to Amazon EC2
+-   Bug Fix
+
+</details>
+
+<details>
+<summary>이태극</summary>
+
+<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
 
 -   Back-end (Products, Review App, Accounts 일부)
 -   Crawling
 -   Search
 -   Bug Fix
 
-#### 최준우
+</details>
+
+<details>
+<summary>최준우</summary>
+
+<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
 
 -   Back-end(Order,Qnas)
 -   Social Login(Naver, KaKao)
@@ -127,6 +144,9 @@
 -   KAKAO Address Search API, KAKAO Map API, KAKAO Pay API
 -   ID , Email Duplication Check, Email Verification(Number check)
 -   Bug Fix
+
+</details>
+
 
 ### 기능 소개
 
