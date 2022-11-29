@@ -1,6 +1,6 @@
-# Brokuly🥦
+# Brokurly🥦
 
-> 이커머스 사이트 [ Brokuly🥦] project
+> 이커머스 사이트 [ Brokurly🥦] project
 >
 > Domain : http://brokurly.shop/
 >
@@ -8,7 +8,7 @@
 
 ## 🔖 Table of contents
 
--   [Brokuly🥦](#brokuly)
+-   [Brokurly🥦](#brokurly)
     -   [🔖 Table of contents](#-table-of-contents)
     -   [📜 General info](#-general-info)
     -   [🧭Requirements](#requirements)
