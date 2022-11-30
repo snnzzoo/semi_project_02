@@ -33,8 +33,9 @@
 
 -   메인화면 사진
 
-    ![Untitled.png](assets/ee7adae9988bb42a593642e491a4d5d192d2b2ff.png)
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98eb85da-735e-4ccf-850c-0b220b27006f/Untitled.png)
+    ![Untitled](https://user-images.githubusercontent.com/104806801/204688386-4c0a9bcc-26c2-48ca-876f-47227ccb3005.png)
+
+    
 
 -   개발기간 : 2022. 11. 09 - 2022. 11. 22
 
@@ -91,12 +92,20 @@
 
 ### 담당 역할
 
+#### 공통
+
+-   프로젝트 기획
+-   Figma로 화면 설계
+
+
 #### 임선주
 
 -   Front-end
--   navbar -  dropdown menu, 일부 css
--   footer
--   마이페이지, 장바구니, 주문하기/주문완료 페이지 레이아웃 구현
+-   Navbar -  dropdown menu, 일부 css
+-   Footer
+-   Top button
+-   마이페이지, 장바구니, 주문하기/주문완료 페이지 화면 구현
+-   각 페이지별 세부 디자인 통일
 
 <details>
 <summary>김예린</summary>
@@ -155,13 +164,25 @@
 
 -   Navbar
 
-    > ![Untitled (1).png](assets/56bf0f649a919283257a0a5de499fe3f470fe333.png)
+    > 스크롤에 따라 레이아웃이 변형됨
+    > ![Untitled (1)](https://user-images.githubusercontent.com/104806801/204688971-a6cfc2a8-93d7-4aa5-a911-6ecce21371df.png)
 
-    > 스크롤을 내리면 다른 Navbar 출력
+
+    > 스크롤을 내릴 경우
+    > ![Untitled (2)](https://user-images.githubusercontent.com/104806801/204689003-816cd790-84f7-4b6a-a510-ad6514cc5d71.png)
+
 
 -   Section
 
     > 각각의 섹션에서 조회기준을 통해 여러 객체 출력
+
+-   챗봇
+
+    > 화면 우측 하단에 top button과 함께 위치
+    > ![Untitled (3)](https://user-images.githubusercontent.com/104806801/204689273-f06398ab-5351-4e44-8b53-441dbfdbbad6.png)
+    > ![Untitled (4)](https://user-images.githubusercontent.com/104806801/204689295-7fce3669-3497-464d-a8a6-82e9eab4b637.png)
+
+
 
 ### Accounts APP
 
