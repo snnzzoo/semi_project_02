@@ -165,8 +165,7 @@
 -   Navbar
 
     > 스크롤에 따라 레이아웃이 변형됨
-    > ![Untitled (1)](https://user-images.githubusercontent.com/104806801/204688971-a6cfc2a8-93d7-4aa5-a911-6ecce21371df.png)
-
+    > !![image](https://user-images.githubusercontent.com/104806801/204690289-2f2017c9-b0e3-4bd0-9689-1a6ab78b4bb9.png)
 
     > 스크롤을 내릴 경우
     > ![Untitled (2)](https://user-images.githubusercontent.com/104806801/204689003-816cd790-84f7-4b6a-a510-ad6514cc5d71.png)
@@ -179,6 +178,7 @@
 -   챗봇
 
     > 화면 우측 하단에 top button과 함께 위치
+    > <br>
     > ![Untitled (3)](https://user-images.githubusercontent.com/104806801/204689273-f06398ab-5351-4e44-8b53-441dbfdbbad6.png)
     > ![Untitled (4)](https://user-images.githubusercontent.com/104806801/204689295-7fce3669-3497-464d-a8a6-82e9eab4b637.png)
 
@@ -189,24 +189,35 @@
 -   CRUD
 
     > 판매자 / 구매자를 선택하여 유저 생성 가능
+    > ![Untitled (5)](https://user-images.githubusercontent.com/104806801/204689595-5504a0ba-799e-4a3e-b3e1-f3bc1ae107fd.png)
+    > ![Untitled (6)](https://user-images.githubusercontent.com/104806801/204689631-8e4749d7-5970-4c57-9f5a-1bc2d3bbd917.png)
+
+
 
 -   로그인, 로그아웃
 
     > 로그인, 로그아웃 기능 구현
+    > 
+    > ![Untitled (7)](https://user-images.githubusercontent.com/104806801/204689697-4e4652fb-0a46-4b61-a240-f81a1af3a5d7.png)
+
 
 *   마이페이지
 
     > 판매자 / 구매자에 따라 화면 구성을 다르게 보여줌
+    > ![Untitled (12)](https://user-images.githubusercontent.com/104806801/204689943-d8b32ff9-a46f-4719-b27f-8bba78fe8471.png)
+
 
 *   장바구니
 
     > 상품 상세에서는 장바구니로 redirect
-    >
+    >![Untitled (8)](https://user-images.githubusercontent.com/104806801/204689723-4dd7904f-b07f-4ef0-8e8c-cd915060b8c7.png)
     > 검색 및 위시리스트에서 모두 비동기 통신으로 장바구니 추가/삭제 구현
 
 *   위시리스트
 
     > 상품 상세에서 비동기로 추가 기능 구현
+    > ![Untitled (11)](https://user-images.githubusercontent.com/104806801/204689877-c169f0f0-6af8-4f6b-9234-22ffa732bc51.png)
+
 
 *   유저가 작성한 리뷰 목록
 
