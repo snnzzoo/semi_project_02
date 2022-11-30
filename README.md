@@ -34,6 +34,7 @@
 -   메인화면 사진
 
     ![Untitled.png](assets/ee7adae9988bb42a593642e491a4d5d192d2b2ff.png)
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98eb85da-735e-4ccf-850c-0b220b27006f/Untitled.png)
 
 -   개발기간 : 2022. 11. 09 - 2022. 11. 22
 
