@@ -165,9 +165,11 @@
 -   Navbar
 
     > 스크롤에 따라 레이아웃이 변형됨
-    > !![image](https://user-images.githubusercontent.com/104806801/204690289-2f2017c9-b0e3-4bd0-9689-1a6ab78b4bb9.png)
+    >
+    > ![image](https://user-images.githubusercontent.com/104806801/204690289-2f2017c9-b0e3-4bd0-9689-1a6ab78b4bb9.png)
 
     > 스크롤을 내릴 경우
+    >
     > ![Untitled (2)](https://user-images.githubusercontent.com/104806801/204689003-816cd790-84f7-4b6a-a510-ad6514cc5d71.png)
 
 
@@ -189,6 +191,7 @@
 -   CRUD
 
     > 판매자 / 구매자를 선택하여 유저 생성 가능
+    >
     > ![Untitled (5)](https://user-images.githubusercontent.com/104806801/204689595-5504a0ba-799e-4a3e-b3e1-f3bc1ae107fd.png)
     > ![Untitled (6)](https://user-images.githubusercontent.com/104806801/204689631-8e4749d7-5970-4c57-9f5a-1bc2d3bbd917.png)
 
@@ -204,18 +207,22 @@
 *   마이페이지
 
     > 판매자 / 구매자에 따라 화면 구성을 다르게 보여줌
+    >
     > ![Untitled (12)](https://user-images.githubusercontent.com/104806801/204689943-d8b32ff9-a46f-4719-b27f-8bba78fe8471.png)
 
 
 *   장바구니
 
     > 상품 상세에서는 장바구니로 redirect
-    >![Untitled (8)](https://user-images.githubusercontent.com/104806801/204689723-4dd7904f-b07f-4ef0-8e8c-cd915060b8c7.png)
     > 검색 및 위시리스트에서 모두 비동기 통신으로 장바구니 추가/삭제 구현
+    >
+    >![Untitled (8)](https://user-images.githubusercontent.com/104806801/204689723-4dd7904f-b07f-4ef0-8e8c-cd915060b8c7.png)
+
 
 *   위시리스트
 
     > 상품 상세에서 비동기로 추가 기능 구현
+    >
     > ![Untitled (11)](https://user-images.githubusercontent.com/104806801/204689877-c169f0f0-6af8-4f6b-9234-22ffa732bc51.png)
 
 
@@ -257,6 +264,7 @@
 
     > 상품 리뷰 작성은 모달 팝업으로 제작
     > 상품 문의는 아코디언으로 확장
+    >
     > ![Untitled](https://user-images.githubusercontent.com/104806801/204764938-d642bf61-6874-447d-a908-997d622d994e.png)
 
 
@@ -322,6 +330,7 @@
 -   질문 CRUD
 
     > 상품에 대한 구매자의 문의 작성, 조회, 수정, 삭제
+    >
     > ![Untitled (1)](https://user-images.githubusercontent.com/104806801/204765034-d84e0b04-1c52-4b20-b3d7-7fa6b96ceb8b.png)
 
 
@@ -338,6 +347,7 @@
 -   주문 기능
 
     > 카트 -> 주문서 -> 주문완료의 흐름으로 구현
+    >
     > ![Untitled (2)](https://user-images.githubusercontent.com/104806801/204765089-f6333424-73db-464f-9397-ab8f79037aac.png)
 
 
