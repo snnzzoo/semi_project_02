@@ -257,6 +257,8 @@
 
     > 상품 리뷰 작성은 모달 팝업으로 제작
     > 상품 문의는 아코디언으로 확장
+    > ![Untitled](https://user-images.githubusercontent.com/104806801/204764938-d642bf61-6874-447d-a908-997d622d994e.png)
+
 
 -   데코레이터
 
@@ -320,6 +322,8 @@
 -   질문 CRUD
 
     > 상품에 대한 구매자의 문의 작성, 조회, 수정, 삭제
+    > ![Untitled (1)](https://user-images.githubusercontent.com/104806801/204765034-d84e0b04-1c52-4b20-b3d7-7fa6b96ceb8b.png)
+
 
 -   답변 CRUD
 
@@ -334,6 +338,8 @@
 -   주문 기능
 
     > 카트 -> 주문서 -> 주문완료의 흐름으로 구현
+    > ![Untitled (2)](https://user-images.githubusercontent.com/104806801/204765089-f6333424-73db-464f-9397-ab8f79037aac.png)
+
 
 -   결제 기능
 
