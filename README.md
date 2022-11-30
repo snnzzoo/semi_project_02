@@ -214,6 +214,7 @@
 *   장바구니
 
     > 상품 상세에서는 장바구니로 redirect
+    >
     > 검색 및 위시리스트에서 모두 비동기 통신으로 장바구니 추가/삭제 구현
     >
     >![Untitled (8)](https://user-images.githubusercontent.com/104806801/204689723-4dd7904f-b07f-4ef0-8e8c-cd915060b8c7.png)
